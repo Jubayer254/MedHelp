@@ -12,14 +12,34 @@ Database: MySQL
 
 ## Features
 * User
-  * hfjhgjdfh
+  * Login/SignUp.
+  * Appoint a Doctor.
+  * Buy Medicine.
+  * Get Ambulance Service.
+  * Medical Test.
+  * Dynamic Search.
 * Admin
-  * hfjhgjdfh
+  * Login/SignUp.
+  * Add/Update/Delete Doctor List.
+  * Add/Update/Delete Medicine List.
+  * Add/Update/Delete Ambulance List.
+  * Add/Update/Delete Test List.
+  * View Doctor Appointments of User.
+  * View Orders of Medicine of User.
+  * Update the Delivery of Medicines.
+  * Update the Delivery of Tests.
+  * Update the Availablity of Ambulance.
+  * Dynamic Search.
+
 
 ## Snapshots
+* Login Page of User
 <img src="Screenshots\1.png" alt="" style="width:1080px;"/>
+* Login Page of Admin
 <img src="Screenshots\2.png" alt="" style="width:1080px;"/>
+* SignUp Page of User
 <img src="Screenshots\3.png" alt="" style="width:1080px;"/>
+* SignUp Page of Admin
 <img src="Screenshots\4.png" alt="" style="width:1080px;"/>
 <img src="Screenshots\5.png" alt="" style="width:1080px;"/>
 <img src="Screenshots\6.png" alt="" style="width:1080px;"/>
