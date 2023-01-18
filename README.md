@@ -34,13 +34,22 @@ Database: MySQL
 
 ## Snapshots
 * Login Page of User
+
 <img src="Screenshots\1.png" alt="" style="width:1080px;"/>
+
 * Login Page of Admin
+
 <img src="Screenshots\2.png" alt="" style="width:1080px;"/>
+
 * SignUp Page of User
+
 <img src="Screenshots\3.png" alt="" style="width:1080px;"/>
+
 * SignUp Page of Admin
+
 <img src="Screenshots\4.png" alt="" style="width:1080px;"/>
+
+
 <img src="Screenshots\5.png" alt="" style="width:1080px;"/>
 <img src="Screenshots\6.png" alt="" style="width:1080px;"/>
 <img src="Screenshots\7.png" alt="" style="width:1080px;"/>
