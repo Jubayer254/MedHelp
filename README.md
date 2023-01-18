@@ -72,14 +72,30 @@ It is a one-stop-place for all the medical solution.
   <img src="Screenshots\9.png" alt="" style="width:1080px;"/>
 
   * User Cart Page
+  
+  <img src="Screenshots\10.png" alt="" style="width:1080px;"/>
 
 * Admin
-<img src="Screenshots\10.png" alt="" style="width:1080px;"/>
-<img src="Screenshots\11.png" alt="" style="width:1080px;"/>
-<img src="Screenshots\12.png" alt="" style="width:1080px;"/>
-<img src="Screenshots\13.png" alt="" style="width:1080px;"/>
-<img src="Screenshots\14.png" alt="" style="width:1080px;"/>
-<img src="Screenshots\15.png" alt="" style="width:1080px;"/>
+
+  * Admin Home Page
+  
+  <img src="Screenshots\11.png" alt="" style="width:1080px;"/>
+  
+  * User Cart Page
+  
+  <img src="Screenshots\12.png" alt="" style="width:1080px;"/>
+  
+  * Doctor Data Entry Page
+  
+  <img src="Screenshots\13.png" alt="" style="width:1080px;"/>
+  
+  * Medicine Data Entry Page
+  
+  <img src="Screenshots\14.png" alt="" style="width:1080px;"/>
+  
+  * Medical Test Data Entry Page
+  
+  <img src="Screenshots\15.png" alt="" style="width:1080px;"/>
 
 
 ## Compatibility 
