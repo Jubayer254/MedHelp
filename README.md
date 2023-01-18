@@ -2,8 +2,8 @@
 ## Project Overview
 It is a one-stop-place for all the medical solution.
 ## Developed Using
-Programing Languages: HTML, CSS, JavaScript, JQuery, PHP
-Database: MySQL
+* Programing Languages: HTML, CSS, JavaScript, JQuery, PHP
+* Database: MySQL
 ## Developed By
 * Jubayer Hossen  
 * Email: `jhossen191254@bscse.uiu.ac.bd`  
@@ -34,7 +34,6 @@ Database: MySQL
 
 ## Snapshots
 * User
-
  * Login Page of User
 
  <img src="Screenshots\1.png" alt="" style="width:1080px;"/>
