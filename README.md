@@ -36,7 +36,7 @@ It is a one-stop-place for all the medical solution.
 * User
   * Login Page of User
 
-  * <img src="Screenshots\1.png" alt="" style="width:1080px;"/>
+  <img src="Screenshots\1.png" alt="" style="width:1080px;"/>
 
   * Login Page of Admin
 
