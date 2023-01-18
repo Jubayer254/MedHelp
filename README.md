@@ -10,6 +10,12 @@ Database: MySQL
 * BSc in Computer Science and Engineering  
 * United International University
 
+## Features
+* User
+** hfjhgjdfh
+* Admin
+** hfjhgjdfh
+
 ## Snapshots
 <img src="Screenshots\1.png" alt="" style="width:1080px;"/>
 <img src="Screenshots\2.png" alt="" style="width:1080px;"/>
