@@ -34,7 +34,7 @@ It is a one-stop-place for all the medical solution.
 
 ## Snapshots
 * User
- * Login Page of User
+  * Login Page of User
 
  <img src="Screenshots\1.png" alt="" style="width:1080px;"/>
 
