@@ -1,6 +1,6 @@
 # MedHelp
 ## Project Overview
-It is a one-stop-place for all the medical solution.
+MedHelp is an online platform where your health comes first. We bring solution for all of your medical problems within your grab.
 ## Developed Using
 * Programing Languages: HTML, CSS, JavaScript, JQuery, PHP
 * Database: MySQL
