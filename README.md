@@ -2,7 +2,7 @@
 ## Project Overview
 MedHelp is an online platform where your health comes first. We bring solution for all of your medical problems within your grab.
 ## Developed Using
-* Programing Languages: HTML, CSS, JavaScript, JQuery, PHP
+* Programing Languages: HTML, CSS, Bootstrap, JavaScript, JQuery, PHP
 * Database: MySQL
 ## Developed By
 * Jubayer Hossen  
