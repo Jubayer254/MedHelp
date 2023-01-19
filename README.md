@@ -39,17 +39,9 @@ MedHelp is an online platform where your health comes first. We bring solution f
 
   <img src="Screenshots\1.png" alt="" style="width:1080px;"/>
 
-  * Login Page of Admin
-
-  <img src="Screenshots\2.png" alt="" style="width:1080px;"/>
-
   * SignUp Page of User
 
   <img src="Screenshots\3.png" alt="" style="width:1080px;"/>
-
-  * SignUp Page of Admin
-
-  <img src="Screenshots\4.png" alt="" style="width:1080px;"/>
 
   * User Home Page
 
@@ -76,6 +68,14 @@ MedHelp is an online platform where your health comes first. We bring solution f
   <img src="Screenshots\10.png" alt="" style="width:1080px;"/>
 
 * Admin
+
+  * Login Page of Admin
+
+  <img src="Screenshots\2.png" alt="" style="width:1080px;"/>
+  
+  * SignUp Page of Admin
+
+  <img src="Screenshots\4.png" alt="" style="width:1080px;"/>
 
   * Admin Home Page
   
